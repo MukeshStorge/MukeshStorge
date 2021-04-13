@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on : Web Application Development
+- 🔭 I’m currently working on : **Web Application Development**
 - 🌱 I’m currently learning : System Designs & Algorithms
 - 👯 I’m looking to collaborate on : Email
 - 🤔 I’m looking for help with : Distributed Systems
