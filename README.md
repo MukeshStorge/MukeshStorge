@@ -23,11 +23,13 @@
 <hr>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mukeshstorge&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 ### Contact with me 📝
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://user-images.githubusercontent.com/65528044/124502913-01f34680-dde2-11eb-9829-86b478d86c67.png" />][facebook]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://user-images.githubusercontent.com/65528044/124503493-521ed880-dde3-11eb-8713-7510eb9bdddc.png" />][twitter]
+
+[<img align="left" height="30px" src="https://user-images.githubusercontent.com/65528044/124502913-01f34680-dde2-11eb-9829-86b478d86c67.png" />][facebook]
+[<img align="left" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" height="30px" src="https://user-images.githubusercontent.com/65528044/124503493-521ed880-dde3-11eb-8713-7510eb9bdddc.png" />][twitter]
 <br />
 
 [facebook]: https://www.facebook.com/mukeshstorge
